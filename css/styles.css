@@ -699,6 +699,10 @@ margin-bottom: 20px;
     
 }
 
+.footer-right-item:not(:last-child) {
+    margin-right: 10px;
+}
+
 .footer-right-title {
     font-style: 400;
 font-weight: 700;
@@ -713,6 +717,7 @@ color: #fff;
     display: flex;
     flex-direction: column;
     padding-left: 70px;
+    padding-top: 12px;
 }
 
 .footer .container {
