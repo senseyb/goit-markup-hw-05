@@ -632,7 +632,7 @@ justify-content: center;
 align-items: center;
 padding-left: 24px;
 padding-right: 24px;
-transform: translateY(+404px);
+transform: translateY(+294px);
 transition: .5s;
 }
 
@@ -658,6 +658,8 @@ transition: .5s;
 .info {
     border: 1px solid #EEEEEE;
     border-top: none;
+    position: relative;
+    background-color: #fff;
 }
 .type {
     color: var(--secondary-color-text);
